@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm Kshitij Khandelwal, a student at VIT (Vellore 
 
 - **LinkedIn:** [linkedin.com/in/kshitij-khandelwal-9a01152a9](link-to-your-linkedin)
 
---
+---
 
 Thank you for visiting my GitHub profile. Happy coding! 🚀
 <!--
